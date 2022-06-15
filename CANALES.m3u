@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="" tv-test="AR.m3u"
-#EXTINF:-1 tvg-name="Canal Luz" tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/canalluz.png", + Canal Luz * | AR
+#EXTINF:-1 tvg-name="Canal Luz" tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/canalluz.png", Canal Luz * | AR
 http://g1.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
-#EXTINF:-1 tvg-id="1081" tvg-name="Aniplus" tvg-logo="https://i2.paste.pics/7ad3396e3452a6091357ca64d5cb8951.png", Aniplus * | AR
-https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="Enlace" tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/enlace.png", Enlace * | AR
+https://1-349-11554-1.b.cdn13.com:443/LiveHTTPOrigin/live/chunklist.m3u8
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV * | UY
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1149" tvg-name="Rocket Channel" tvg-logo="https://i2.paste.pics/604dd86c9c9a4937b0f97e141a75c7cb.png", Rocket Channel * | AR
