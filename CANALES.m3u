@@ -1,12 +1,18 @@
 #EXTM3U x-tvg-url="" tv-test="AR.m3u"
-#EXTINF:-1 tvg-name="Canal Luz" tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/canalluz.png", Canal Luz * | AR
-http://g1.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
-#EXTINF:-1 tvg-name="Enlace" tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/enlace.png", Enlace * | AR
+
+#EXTINF:-1 tvg-id="1" tvg-name="Canal Luz" tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/canalluz.png", Canal Luz * | AR
+http://g3.proy-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="1" tvg-name="Canal Luz" tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/canalluz.png", Canal Luz 720p * | AR
+http://g3.proy-hor.transport.edge-access.net:80/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="Enlace" tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/enlace.png", Enlace * | AR
+https://1-349-11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Enlace" tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/enlace.png", Enlace 480p * | AR
 https://1-349-11554-1.b.cdn13.com:443/LiveHTTPOrigin/live/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV * | UY
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1149" tvg-name="Rocket Channel" tvg-logo="https://i2.paste.pics/604dd86c9c9a4937b0f97e141a75c7cb.png", Rocket Channel * | AR
-https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="269" tvg-name="Canal 13 San Luis" tvg-logo="https://lh3.googleusercontent.com/-k0l597JI_Nw/Xx4DpspmB4I/AAAAAAAA3gk/jb-EnvLp1GchlYJL90z6FLSXJe3ciwNRQCK8BGAsYHg/s0/2020-07-26.png", Canal 13 San Luis * | AR
 https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="765" tvg-name="Canal 4 Telecondor" tvg-logo="https://lh3.googleusercontent.com/-uoOXu9qMcIM/YGRyMxi3tiI/AAAAAAABBEQ/eToP9x0xTwc0kMtGohFBGhZWmFwlRQJrACK8BGAsYHg/s512/2021-03-31.png", Canal 4 Telecondor * | AR
